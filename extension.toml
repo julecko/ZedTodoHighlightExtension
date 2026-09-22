@@ -1,0 +1,11 @@
+id = "todo-highlighzed"
+name = "TodoHighlighZed"
+version = "0.1.0"
+schema_version = 1
+authors = ["julkoklein <julkoklein@gmail.com>"]
+description = "Highlights TODO, FIXME, NOTE, HACK, BUG and other keyword comments across any language"
+repository = "https://github.com/julkoklein/TodoHighlighZed"
+
+[grammars.comment]
+repository = "https://github.com/thedadams/tree-sitter-comment"
+rev = "d6c715fa37c6086030875ae20adaec399441a45c"

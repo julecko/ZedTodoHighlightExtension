@@ -21,8 +21,7 @@ the parenthesized name and the rest of the line, using the `.user` and
 (`constant`, `string`, `property`, `keyword`) in any theme, so it looks
 reasonable out of the box, and can be customized (see below).
 
-Edit `languages/comment/highlights.scm` and `outline.scm` to add, remove, or
-regroup keywords.
+Edit `languages/comment/highlights.scm` to add, remove, or regroup keywords.
 
 ## Installing locally
 
